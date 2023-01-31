@@ -1,0 +1,32 @@
+{
+	"info": {
+		"_postman_id": "1ff4e942-7f81-4419-898a-30c5c9d6777c",
+		"name": "eventin",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "7157053"
+	},
+	"item": [
+		{
+			"name": "https://www.eventim.com.br/event/rbd-allianz-parque-16563626",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.eventim.com.br/event/rbd-allianz-parque-16563626",
+					"protocol": "https",
+					"host": [
+						"www",
+						"eventim",
+						"com",
+						"br"
+					],
+					"path": [
+						"event",
+						"rbd-allianz-parque-16563626"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
